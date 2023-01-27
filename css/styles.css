@@ -1,7 +1,3 @@
 .site-header {
-  color: black;
-}
-
-.site-header.hover {
-  color: red;
+  color: blue;
 }
